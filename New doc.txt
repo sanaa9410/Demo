@@ -1,0 +1,8 @@
+1. split the logic apps into 2. with int 002 and int 003 as 5th date of the month.
+
+2. split into 3 logic apps the behaviour will be dynamic 
+
+
+FTP-Int-Testing2020!!
+
+/FreeTextInvoice
